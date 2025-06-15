@@ -1,1 +1,2 @@
 さらにhello.txt の内容を編集して
+同じくhello.txt も修正
